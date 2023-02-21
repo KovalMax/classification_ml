@@ -1,0 +1,11 @@
+seed_number = 17000
+samples = 800
+number_of_clusters = 3
+number_of_features = 2
+batch_size = 32
+hidden_layer_neurons = 64
+number_epochs = 50
+activation_hidden = 'relu'
+activation_classification = 'softmax'
+optimizer = 'adam'
+loss = 'sparse_categorical_crossentropy'
